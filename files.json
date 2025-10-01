@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Chemistry Notes",
+    "subtitle": "Chapter 1",
+    "author": "~ OG",
+    "pdfUrl": "https://nofy.netlify.app/pdfs/chemistry_ch1.pdf"
+  },
+  {
+    "title": "Maths Assignment",
+    "subtitle": "Matrices",
+    "author": "~ OG",
+    "pdfUrl": "https://nofy.netlify.app/pdfs/maths_matrices.pdf"
+  },
+  {
+    "title": "Physics Notes",
+    "subtitle": "Chapter 2",
+    "author": "~ OG",
+    "pdfUrl": "https://nofy.netlify.app/pdfs/physics_ch2.pdf"
+  }
+]
