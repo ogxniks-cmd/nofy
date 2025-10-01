@@ -1,1 +1,22 @@
-
+[
+  {
+    "title": "Dandiya Night",
+    "subtitle": "Join us for a fun Dandiya event at the college auditorium.",
+    "author": "OG"
+  },
+  {
+    "title": "BGMI Tournament",
+    "subtitle": "Battle it out in our BGMI gaming tournament!",
+    "author": "OG"
+  },
+  {
+    "title": "Science Fair",
+    "subtitle": "Showcase your innovative projects in the annual science fair.",
+    "author": "OG"
+  },
+  {
+    "title": "Music Fest",
+    "subtitle": "Live performances by talented students and bands.",
+    "author": "OG"
+  }
+]
