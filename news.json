@@ -1,0 +1,44 @@
+{
+  "news": [
+    {
+      "title": "Mkb aag lgi...",
+      "subtitle": "dekhiye kaise lgi aag",
+      "author": "~ anonymous",
+      "icon": "article"
+    },
+    {
+      "title": "ITS Strike...",
+      "subtitle": "kyu hua hangama",
+      "author": "~ OG",
+      "icon": "article"
+    }
+  ],
+  "events": [
+    {
+      "title": "Dandia Event",
+      "subtitle": "College Proposing..",
+      "author": "~ OG",
+      "icon": "event_available_rounded"
+    },
+    {
+      "title": "BGMI Event",
+      "subtitle": "Let's Play",
+      "author": "~ OG",
+      "icon": "emoji_events_outlined"
+    }
+  ],
+  "files": [
+    {
+      "title": "Chemistry Notes",
+      "subtitle": "Chapter 1",
+      "author": "~ OG",
+      "icon": "file_copy_outlined"
+    },
+    {
+      "title": "Maths Assignment",
+      "subtitle": "Matrices",
+      "author": "~ OG",
+      "icon": "file_copy_outlined"
+    }
+  ]
+}
